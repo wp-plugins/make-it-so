@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: kjodle
 Donate link: http://blog.kjodle.net/
-Tags: comments, spam
+Tags: Star Trek
 Requires at least: 2.0.2
 Tested up to: 3.4.1
 Stable tag: 1.0
