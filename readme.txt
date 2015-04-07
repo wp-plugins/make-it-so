@@ -3,7 +3,7 @@ Contributors: kjodle
 Donate link: http://kjodle.info/support
 Tags: Star Trek
 Requires at least: 2.0.2
-Tested up to: 3.4.1
+Tested up to: 4.1.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
