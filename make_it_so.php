@@ -1,7 +1,7 @@
 <?php
 /**
  * @package Make_It_So
- * @version 1.0
+ * @version 1.1
  */
 /*
 Plugin Name: Make It So
